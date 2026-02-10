@@ -13,6 +13,8 @@ Content Creation: $ARGUMENTS
 **Steps:**
 
 1. **Research** — [1-research/](1-research/)
+2. **Draft** — [2-draft/](2-draft/)
+3. **Final Article** — [3-final-article/](3-final-article/)
 
 ---
 
