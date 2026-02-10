@@ -1,0 +1,24 @@
+{
+  "name": "airops-plugin",
+  "owner": {
+    "name": "AirOps",
+    "email": "dillon@airops.com"
+  },
+  "metadata": {
+    "description": "AirOps plugins for brand-aware content marketing with AI search data"
+  },
+  "plugins": [
+    {
+      "name": "playbooks",
+      "source": "./",
+      "description": "Content marketing playbooks with brand-aware AI agents.",
+      "version": "1.0.0",
+      "author": {
+        "name": "AirOps"
+      },
+      "homepage": "https://airops.com",
+      "keywords": ["content-marketing", "brand-voice", "aeo", "seo", "ai-search"],
+      "category": "content"
+    }
+  ]
+}
