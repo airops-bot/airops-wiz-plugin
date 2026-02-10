@@ -1,6 +1,7 @@
 ---
 name: playbook-123
 description: Run the playbook-123 playbook.
+version: '2'
 ---
 
 playbook-123: $ARGUMENTS
