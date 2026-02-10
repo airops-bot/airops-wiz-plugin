@@ -6,6 +6,7 @@ inputs:
 - name: topic
   type: short_text
   required: false
+version: '2'
 ---
 
 Content Creation: $ARGUMENTS
