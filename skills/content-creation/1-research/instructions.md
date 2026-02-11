@@ -1,3 +1,3 @@
 # Research
 
-Reseach on {{topic}}
+Research on {{topic}}
